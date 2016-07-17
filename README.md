@@ -8,3 +8,9 @@ For example, the base, comparative, and superlative forms have a natural directi
 
 ## Datasets
 We use pre-trained [GloVe](http://nlp.stanford.edu/projects/glove/) word vectors available under Public Domain Dedication and License.
+
+## Preliminary Methods
+We use tSNE to reduce the 300-dimensional word vector to one-dimensional scalar values.
+
+
+
