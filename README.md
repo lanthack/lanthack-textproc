@@ -11,6 +11,6 @@ We use pre-trained [GloVe](http://nlp.stanford.edu/projects/glove/) word vectors
 
 ## Preliminary Methods
 We use tSNE to reduce the 300-dimensional word vector to one-dimensional scalar values.
-
+![Happy Example](https://raw.githubusercontent.com/ankur-gupta/lanthack-textproc/master/happy_example.png)
 
 
