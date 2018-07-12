@@ -1,6 +1,6 @@
 # Text Processing
 
-This code was developed as a part of a one-day [LaNT hackathon](http://lanthack.org). 
+This code was developed as a part of a one-day [RWL hackathon](http://randomwalklabs.org). 
 
 ## Aim
 Investigate stronger relationships between word vectors.
